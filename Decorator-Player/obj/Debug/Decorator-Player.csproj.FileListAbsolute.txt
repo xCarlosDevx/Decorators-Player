@@ -1,0 +1,7 @@
+C:\Users\Carlos Alejandro\source\repos\Decorator-Player\Decorator-Player\bin\Debug\Decorator-Player.exe.config
+C:\Users\Carlos Alejandro\source\repos\Decorator-Player\Decorator-Player\bin\Debug\Decorator-Player.exe
+C:\Users\Carlos Alejandro\source\repos\Decorator-Player\Decorator-Player\bin\Debug\Decorator-Player.pdb
+C:\Users\Carlos Alejandro\source\repos\Decorator-Player\Decorator-Player\obj\Debug\Decorator-Player.csproj.AssemblyReference.cache
+C:\Users\Carlos Alejandro\source\repos\Decorator-Player\Decorator-Player\obj\Debug\Decorator-Player.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alejandro\source\repos\Decorator-Player\Decorator-Player\obj\Debug\Decorator-Player.exe
+C:\Users\Carlos Alejandro\source\repos\Decorator-Player\Decorator-Player\obj\Debug\Decorator-Player.pdb
